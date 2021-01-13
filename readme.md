@@ -1,6 +1,7 @@
-# This is a pong clon for learning has3 and ypescript
+# PONG CLONE
 
-Made based on parcel template. :-)
+- for learning phasr3 and typescript
+- Made based on parcel template.
 
 .
 .
